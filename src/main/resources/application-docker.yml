@@ -1,0 +1,3 @@
+spring:
+  datasource:
+    url: jdbc:postgresql://hospitaldb:5432/hospital_db
